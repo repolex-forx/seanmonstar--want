@@ -50,7 +50,9 @@
           "githubUrl": "https://github.com/tokio-rs/tokio",
           "source": "build_file:Cargo.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/6e65401c71fa55c75b6fb52f595a692ef3643939/chunk-001.nq.gz",
+      "dep": "dep/6e65401c71fa55c75b6fb52f595a692ef3643939.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
